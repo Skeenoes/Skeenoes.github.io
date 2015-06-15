@@ -20,6 +20,6 @@ reserve_note: © 2015. All rights reserved
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 timezone: Europe/London
 encoding: utf-8

@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 5px solid $dark-grey;
     min-height: 56px;
+    background-color: $light-blue;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -32,8 +32,8 @@
     }
 
     .page-link {
-        color: $text-color;
         line-height: $base-line-height;
+        font-weight: bold;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -94,6 +94,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: $light-blue;
 }
 
 .footer-heading {
