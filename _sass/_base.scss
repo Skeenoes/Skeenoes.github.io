@@ -89,11 +89,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $blue;
+    color: $dark-grey;
     text-decoration: none;
 
     &:visited {
-        color: darken($blue, 15%);
+        color: darken($dark-grey, 20%);
     }
 
     &:hover {
@@ -198,7 +198,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $lighter-black;
         }
     }
 }

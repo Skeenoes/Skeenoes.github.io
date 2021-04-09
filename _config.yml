@@ -1,21 +1,19 @@
 # Site settings
 title: Johnry Mangonon
 email: johnrymangonon@outlook.com
-description: Johnry's Website of awesomeness
+description: Johnry's Website
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://johnry.com" # the base hostname & protocol for your site
 twitter_username: hi_johnry
-github_username:  Skeenoes
-footer_heading: Details
+github_username:  JohnryM
+footer_heading: Info
 
 # Top navigation list
 page_list:
     About: '/about'
-    Cake:  '/cake'
-    Feed:  '/feed.xml'
 
 # Footer stuff
-reserve_note: © 2015. All rights reserved
+reserve_note: © 2021. All rights reserved
 
 
 # Build settings

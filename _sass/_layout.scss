@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $dark-grey;
+    border-top: 5px solid $orange;
     min-height: 56px;
-    background-color: $light-blue;
+    background-color: $teal;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -19,7 +19,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $black;
     }
 }
 
@@ -94,7 +94,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background-color: $light-blue;
+    background-color: $teal;
 }
 
 .footer-heading {
@@ -110,7 +110,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $black;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -122,7 +122,7 @@
 
     .text {
         font-weight: bold;
-        color: #696969;
+        color: $black;
     }
 }
 

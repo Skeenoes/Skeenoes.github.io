@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hello! I'm Johnry and this is my awesome website hosted by the power of [Jekyll](http://jekyllrb.com/) and hosted via [Github pages](https://pages.github.com/). I set this site up as an exercise in front-end web development as Im pretty pants at it, the fact that I haven't made the internet implode is a sign that I've done something right. Yay!
+Hello! I'm Johnry and I am a software developer whol likes trying out new tech. This is my awesome website hosted by the power of [Jekyll](http://jekyllrb.com/) and hosted via [Github pages](https://pages.github.com/). I set this site up as an exercise in web development as I'm pretty pants at it, the fact that I haven't made the internet implode is a sign that I've done something right. Nice!
 
-It's early days for this site so there isn't much content, but rest assured I shall fill it with much hapiness and win.
+I don't have much content so for now here is a photo of a cute dog.
 
-So stay tuned!
+![doggo](https://user-images.githubusercontent.com/9742449/114170308-a45a7580-992a-11eb-8cc3-32fa9b4d68b6.jpg)
